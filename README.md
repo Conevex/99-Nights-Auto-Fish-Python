@@ -10,4 +10,4 @@ Waits and clicks after fishing ends
 Hotkey toggle (Alt+V) to start/stop
 
 # Requirements: pyautogui, mss, numpy, keyboard
-# Install: python -m pip install pyautogui mss numpy keyboard
+# python -m pip install pyautogui mss numpy keyboard

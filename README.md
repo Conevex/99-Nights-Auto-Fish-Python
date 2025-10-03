@@ -1,4 +1,4 @@
-I MADE THIS WITH AI SO I HAVE NO IDEA PYTHON WORKS LOL
+I MADE THIS WITH AI SO I HAVE NO IDEA HOW PYTHON WORKS LOL
 ________________________________________________________________
 
 Detects red and green bars using screen capture
